@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575407125125.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "824018757",
+    "id" : "FFE24FBD",
+    "lastKnownWriteTime" : 1575408344,
+    "last_content_update" : 1575408344684,
+    "path" : "~/bioinfo_website/website1.R",
+    "project_path" : "website1.R",
+    "properties" : {
+        "cursorPosition" : "13,39",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

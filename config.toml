@@ -1,0 +1,4 @@
+theme = "github-style"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "SDS348 2019 final project"
